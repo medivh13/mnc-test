@@ -1,0 +1,5 @@
+appName: mnc-test
+
+server:
+  port: "9008"
+  log_level: 3
